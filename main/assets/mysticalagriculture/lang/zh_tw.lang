@@ -194,7 +194,7 @@ tile.ma.fluxed_electrum_crop.name=助焊劑作物
 tile.ma.hop_graphite_crop.name=HOP石墨作物
 
 tile.ma.aluminum_brass_crop.name=鋁黃銅作物
-tile.ma.knightslime_crop.name=史萊姆騎士作物
+tile.ma.knightslime_crop.name=騎士史萊姆作物
 tile.ma.ardite_crop.name=阿迪特作物
 tile.ma.cobalt_crop.name=鈷作物
 tile.ma.manyullyn_crop.name=瑪玉靈作物
@@ -503,7 +503,7 @@ item.ma.fluxed_electrum_essence.name=助焊劑精華
 item.ma.hop_graphite_essence.name=HOP石墨精華
 
 item.ma.aluminum_brass_essence.name=鋁黃銅精華
-item.ma.knightslime_essence.name=史萊姆騎士精華
+item.ma.knightslime_essence.name=騎士史萊姆精華
 item.ma.ardite_essence.name=阿迪特精華
 item.ma.cobalt_essence.name=鈷精華
 item.ma.manyullyn_essence.name=瑪玉靈精華
@@ -705,7 +705,7 @@ item.ma.fluxed_electrum_seeds.name=助焊劑種子
 item.ma.hop_graphite_seeds.name=HOP石墨種子
 
 item.ma.aluminum_brass_seeds.name=鋁黃銅種子
-item.ma.knightslime_seeds.name=史萊姆騎士種子
+item.ma.knightslime_seeds.name=騎士史萊姆種子
 item.ma.ardite_seeds.name=阿迪特種子
 item.ma.cobalt_seeds.name=鈷種子
 item.ma.manyullyn_seeds.name=瑪玉靈種子
